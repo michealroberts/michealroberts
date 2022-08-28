@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Michael
 
 <!--
 **michealroberts/michealroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer of some 10 years+ experience, specialising in both frontend and backend web technologies. In my day job, I am a software-engineer in the space industry for Loft Orbital. 
+
+I specialise in frontend web technologies, mainly Typescript, XState, Next.js, Nuxt.js and tRPC.io, but I also have deep knowledge of both Python 3+ (FastAPI, Django) and Go lang (Gin Gonic, Fiber).
+
+I am also an early-adopter of Vue (from v1), and an ealy-adopter of TailwindCSS (again, from v1). 
+
+I'm a major astronomy 🔭 enthusiast, and I'm currently building [observerly](https://observerly.com) - a next-generation remote telescope and astronomical observation platform.
+
+I'm currently building a Go based .FITS and .XSIF file reader and rendering, which I will port to the frontend using WASM.
