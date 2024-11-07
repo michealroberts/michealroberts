@@ -1,5 +1,7 @@
 ### Hi, I'm Michael
 
+---
+
 <!--
 **michealroberts/michealroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +17,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an astronomy 🔭 enthusiast, completing my MSc in Astrophysics at University College London (UCL).
+**About Me**
 
-In my day job, I am a software-engineer in the space industry for Loft Orbital. We're currently working on delivering a constellation of satellites to orbit.
+I am an astronomy enthusiast with an MSc in Astrophysics from University College London (UCL). 
 
-I'm a developer of some 10 years+ experience, specialising in both frontend and backend technologies. I'm a big fan of TypeScript, Go, and Vue.
+Currently, I work as a software engineer in the space industry at Lumi.Space, where I contribute to cutting-edge satellite tracking and space-situational awareness technology.
+
+With over a decade of experience in software development, I specialize in both frontend and backend technologies. I am particularly passionate about TypeScript, Go, Rust and Vue.
+
+---
+
+**My Projects**
 
 ![observerly](https://github.com/michealroberts/michealroberts/blob/main/profile/github-readme-banner.png?raw=true)
 
-I'm currently building [observerly](https://observerly.com) - a next-generation remote telescope and astronomical observation platform.
+I am the creator of [observerly](https://observerly.com), a next-generation platform for remote telescope control and astronomical observation.
 
-I'm currently building a fully tree-shakeable, zero-dependency TypeScript library for performing astrometric and astronomical calculations [@observerly/astrometry](https://github.com/observerly/astrometry).
+- @observerly/astrometry: A fully lightweight, zero-dependency, type-safe library performing astrometric and astronomical calculations built for the web, written in TypeScript.
+- SkySolve: A zero-dependency astrometric plate solving and image distortion analysis library for astronomical images, adhering to the WCS and SIP standards.
+- IRIS 👀 @observerly/iris: A zero-dependency framework for interoperating with images created by the ASCOM Alpaca API, written in Go.
+- A fits, astroTIFF and XISF File Reader: I am developing .fits, astroTIFF and .xisf file reader and renderer, ported to the frontend using WebAssembly (WASM). More details to come soon!
 
-I'm currently building a Go based framework for interoperating with images created by the ASCOM Alpaca API, called IRIS 👀 [@observerly/iris](https://github.com/observerly/iris).
-
-I'm also currently building a Go based .FITS and .XSIF file reader and rendering, ported to the frontend using WASM. More details to come soon!
+Feel free to reach out if you’re interested in astronomy, software development, or any of my projects!
