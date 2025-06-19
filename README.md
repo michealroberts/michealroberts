@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 **About Me**
 
-I am an astronomy enthusiast with an MSc in Astrophysics from University College London (UCL). 
+I’m a software engineer with over 15 years of experience. I hold an MSc in Astrophysics from UCL and have a lifelong passion for astronomy. 
 
-Currently, I work as a software engineer in the space industry at Lumi.Space, where I contribute to cutting-edge satellite tracking and space-situational awareness technology.
+Currently, I work at Lumi.Space, I build satellite tracking and space situational awareness tools.
 
-With over a decade of experience in software development, I specialize in both frontend and backend technologies. I am particularly passionate about TypeScript, Go, Rust and Vue.
+Previously, I was on the Ground Segment team at Loft Orbital. I helped deliver their satellites-as-a-service platform. 
+
+I work across frontend and backend stacks—often using TypeScript, Go, Rust, Python or Vue. 
+
+Outside work, I enjoy stargazing and exploring open-source projects in space tech.
 
 ---
 
