@@ -23,11 +23,11 @@ I’m a software engineer with over 15 years of experience. I hold an MSc in Ast
 
 Currently, I work at lumi.space, where I build satellite tracking and space situational awareness tools.
 
-Previously, I was on the Ground Segment team at Loft Orbital. I helped deliver their satellites-as-a-service platform, focusing on the Ground Segment.
+Previously, I was on the Ground Segment team at Loft Orbital. I helped deliver their satellites-as-a-service platform.
 
 I work across frontend and backend stacks where I am comfortable with TypeScript, Go, Rust, Python and Vue.
 
-Outside work, I enjoy stargazing and exploring open-source projects in space-tech.
+Outside work, I enjoy stargazing and exploring open-source projects.
 
 ---
 
