@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 **About Me**
 
-I’m a software engineer with over 15 years of experience. I hold an MSc in Astrophysics from UCL and have a lifelong passion for astronomy. 
+I’m a software engineer with over 15 years of experience. I hold an MSc in Astrophysics from UCL and I am a fellow of the Royal Astronomical Society. I have a lifelong passion for astronomy.
 
-Currently, I work at lumi.space, where I build satellite tracking and space situational awareness tools.
+Currently, I work at foundational.space, where I build satellite tracking and space situational awareness tools.
 
 Previously, I was on the Ground Segment team at Loft Orbital. I helped deliver their satellites-as-a-service platform.
 
