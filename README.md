@@ -25,7 +25,7 @@ Currently, I work at foundational.space as their Head of Software, where I build
 
 Previously, I was a senior engineer on the Ground Segment team at Loft Orbital. I helped deliver their satellites-as-a-service platform.
 
-I work across frontend and backend stacks. I am comfortable with TypeScript, Go, Rust, Python and Vue.
+I work across frontend and backend stacks. I am comfortable with both front-end languages and frameworks such as TypeScript, Vue and React as well as back-end technologies like Go, Rust, C, C++ and Python. I consider myself to know just about everything about containers and Linux sysadmin.  
 
 Outside work, I enjoy stargazing, road trips, surfing, camping and exploring open-source projects.
 
