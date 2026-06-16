@@ -33,7 +33,7 @@ Outside work, I enjoy stargazing, road trips, surfing, camping and exploring ope
 
 **My Projects**
 
-![observerly](https://github.com/michealroberts/michealroberts/blob/main/profile/github-readme-banner.png?raw=true)
+![observerly](https://github.com/michealroberts/michealroberts/blob/main/profile/observerly-readme-banner.png?raw=true)
 
 I am the creator of [observerly](https://observerly.com), a next-generation platform for remote telescope control and astronomical observation.
 
